@@ -1,3 +1,6 @@
+pip install requests beautifulsoup4 pandas streamlit
+
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -47,3 +50,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
