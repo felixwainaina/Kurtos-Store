@@ -1,0 +1,2 @@
+# Kurtos-Store
+Dropshipping app
